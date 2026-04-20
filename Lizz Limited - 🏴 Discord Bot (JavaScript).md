@@ -1,4 +1,4 @@
-# Lizz Limited - 🏴 Discord Bot (JavaScript)
+# Lizz Limited - 🏴 Discord Bot
 
 Este é o código-fonte para o bot Discord "Lizz Limited - 🏴", um proxy multifuncional para envio de mensagens, GIFs e anexos, desenvolvido para contornar limitações de contas no Discord, agora em JavaScript e com suporte a **Aplicativos de Usuário (User Installable Apps)**.
 
